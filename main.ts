@@ -1,0 +1,1 @@
+Sprite.tyeof sprite (50, 50)
